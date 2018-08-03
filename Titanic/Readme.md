@@ -1,5 +1,7 @@
 # Titanic Machine Learning from Disaster
 
+![Titanic](https://github.com/u-prashant/Machine-Learning-Kaggle-Competitions/blob/master/Titanic/Titanic.jpg)
+
 Description
 
 The sinking of the RMS Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, 
