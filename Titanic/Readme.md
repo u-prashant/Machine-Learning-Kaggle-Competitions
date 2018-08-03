@@ -1,4 +1,4 @@
-# Titanic Machine Learning from Disaster
+# Titanic - Machine Learning from Disaster
 
 ![Titanic](https://github.com/u-prashant/Machine-Learning-Kaggle-Competitions/blob/master/Titanic/Titanic.jpg)
 
@@ -12,4 +12,4 @@ One of the reasons that the shipwreck led to such loss of life was that there we
 Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others, 
 such as women, children, and the upper-class.
 
-In this challenge, we were supposed to complete the analysis of what sorts of people were likely to survive. 
+In this challenge, we were supposed to complete **the analysis of what sorts of people were likely to survive.** 
